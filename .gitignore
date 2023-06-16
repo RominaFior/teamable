@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Build output
+/dist/
+
+# Environment variables
+.env
+
+# Vue.js
+/.idea/
+/.vscode/
+/vue.config.js
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+#npm
+.npmignore
+*.tgz
+
